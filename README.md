@@ -1,8 +1,8 @@
 # Graphql server with mongodb and express
 
-## Prerequiest
-Node v10.0
-MongoDB
+## Prerequisite
+> Node v10.0
+> MongoDB
 
 ## How to start?
 > `npm install` to install dependencies
