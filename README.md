@@ -1,7 +1,7 @@
 # Graphql server with mongodb and express
 
 ## Prerequisite
-* Node v10.0
+* Node v16.0
 * MongoDB
 
 ## How to start?
