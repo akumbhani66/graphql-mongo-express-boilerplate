@@ -10,7 +10,7 @@
 * Create `.env`. Take reference from `.env.example`
 * Server should run on `4000` port by default.
 * Endpoint: http://localhost:4000/graphql
-* Playground endpoint: http://localhost:4000/playground`
+* Playground endpoint: http://localhost:4000/playground
 
 ## Docker-way
 
